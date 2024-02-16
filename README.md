@@ -13,10 +13,10 @@
 - I'm mainly using Javascript and Typescript.
 - I have 4 years experience about Javascript and 3 years experience about analysis and design system.
 
--<kbd>
-<img alt="Avatar" src="https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/422315667_1493694971177911_4131703828557050912_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeElD4DxKhjH6zOxbkyOy5Olio82KOcIWNSKjzYo5whY1BHF8QOc7F6-y_Gbqt3ekXMeL_Gwr0GYjHGDAxnoFyyv&_nc_ohc=iSLFs6xVjFIAX-MRmjr&_nc_ht=scontent.fhan18-1.fna&oh=00_AfCDd9K8XgQdCkqA1ZgklurpcrqK3MU5RoFBZtRFR1WcoA&oe=65D407F1" height="200" width="200"/>
+<kbd>
+<img alt="Avatar" src="https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/422315667_1493694971177911_4131703828557050912_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeElD4DxKhjH6zOxbkyOy5Olio82KOcIWNSKjzYo5whY1BHF8QOc7F6-y_Gbqt3ekXMeL_Gwr0GYjHGDAxnoFyyv&_nc_ohc=iSLFs6xVjFIAX-MRmjr&_nc_ht=scontent.fhan18-1.fna&oh=00_AfCDd9K8XgQdCkqA1ZgklurpcrqK3MU5RoFBZtRFR1WcoA&oe=65D407F1" height="160" width="160"/>
 ![hoangnm-ndm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnm-ndm&theme=radical&show_icons=true&hide_border=false&layout=compact)
-</kbd>-
+</kbd>
 
 ## 🤓 My Stats
 
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   - Python:
     - Django (Web Application;)
     - Data visualization with numpy, pandas, matplotlib.
-- **Relational Database:**
+- **Database:**
   - MongoDB
   - SQL Server
   - MySQL
