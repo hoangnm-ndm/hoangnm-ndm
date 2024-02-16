@@ -1,6 +1,6 @@
 # Hi, I'm HoangNguyen! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teaching+and+researching+Educational+Techniques;Frontend+Developer;Full-Stack+Develeloper&pause=1200&color=F7EC00FF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=7000&pause=1200&color=F7EC00&random=false&width=435&lines=Teaching+and+researching+educational+techniques!;Web+Developer!;Frontend+developer!;Data+analysis+and+visualization!)](https://git.io/typing-svg)
 
 ## 🔗 Links to my social profile
 
