@@ -1,8 +1,8 @@
 # Hi, I'm HoangNguyen! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=7000&pause=1200&color=F7EC00&random=false&width=435&lines=Teaching+and+researching+educational+techniques!;Web+Developer!;Frontend+developer!;Data+analysis+and+visualization!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=7000&pause=1200&color=F7EC00&random=false&width=435&lines=Teaching+and+researching!;Web+Developer!;Frontend+developer!;Data+analysis+and+visualization!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=7000&pause=1200&color=D122F7&random=false&width=435&lines=Teaching+more+than+5%2C000+students!;Share+knowledge+with+more+than+500+students+who+are+working+people!;Help+with+learning+orientation+and+be+a+motivator!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=7000&pause=1200&color=D122F7&random=false&width=435&lines=Teaching+more+than+5%2C000+students!;And+more+than+500+working+people!;Help+with+learning+orientation!)](https://git.io/typing-svg)
 
 ## 🔗 Links to my social profile
 
